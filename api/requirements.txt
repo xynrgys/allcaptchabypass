@@ -1,0 +1,13 @@
+fastapi==0.111.0
+uvicorn[standard]==0.23.2
+supabase==2.5.1
+#pydantic==2.7.4
+passlib==1.7.4
+jwt==0.6.1
+#openai-whisper
+#requests
+bcrypt==3.2.2
+seleniumbase==4.29.3
+selenium==4.23.1
+beautifulsoup4==4.12.3
+datetime==4.3
